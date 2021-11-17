@@ -1,4 +1,4 @@
-peline {
+pipeline {
     agent any
     tools {
         nodejs "node17"
